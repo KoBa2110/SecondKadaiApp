@@ -12,6 +12,7 @@
 		6B5924A61C8585AB00C2D12C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B5924A41C8585AB00C2D12C /* Main.storyboard */; };
 		6B5924A81C8585AB00C2D12C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B5924A71C8585AB00C2D12C /* Assets.xcassets */; };
 		6B5924AB1C8585AB00C2D12C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B5924A91C8585AB00C2D12C /* LaunchScreen.storyboard */; };
+		6B5924B31C85886F00C2D12C /* RisurtViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B5924B21C85886F00C2D12C /* RisurtViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6B5924A71C8585AB00C2D12C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6B5924AA1C8585AB00C2D12C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6B5924AC1C8585AB00C2D12C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6B5924B21C85886F00C2D12C /* RisurtViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RisurtViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				6B5924A01C8585AB00C2D12C /* AppDelegate.swift */,
 				6B5924A21C8585AB00C2D12C /* ViewController.swift */,
 				6B5924A41C8585AB00C2D12C /* Main.storyboard */,
+				6B5924B21C85886F00C2D12C /* RisurtViewController.swift */,
 				6B5924A71C8585AB00C2D12C /* Assets.xcassets */,
 				6B5924A91C8585AB00C2D12C /* LaunchScreen.storyboard */,
 				6B5924AC1C8585AB00C2D12C /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				6B5924A31C8585AB00C2D12C /* ViewController.swift in Sources */,
 				6B5924A11C8585AB00C2D12C /* AppDelegate.swift in Sources */,
+				6B5924B31C85886F00C2D12C /* RisurtViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
